@@ -1,13 +1,8 @@
 # Industry-Visit
 On 10th December 2024 (Tuesday), we had an industry visit to UTM Digital (UTMD), gathering at N24 at 2 PM with around 150 participants, led by Dr. Haswadi bin Hasan.
-
-UTM Digital was established in 1975 in Kuala Lumpur and became part of the Department of Computer Science in 1981. In 2004, the Computer Center was rebranded as the Center for Information and Communication Technology (CICT) and later evolved into the Department of Information and Communication Technology in 2019.
-
-UTMDigital, as the Leader of the Digital University, provides digital services, including infostructure and ICT infrastructure, to all campus residents. It also ensures a high level of network security to protect data from cyber threats. Furthermore, UTMDigital continues to develop digital platforms, such as UTM Smart, to enhance connectivity, improve user experience, and meet evolving technological needs.
-
-This is the UTM Digital organization chart, led by Nik Kamal Izuddin Nik Ibrahim, the Director of UTM Digital. The organization comprises 150 staff members in UTM Digital JB and 20 staff members in UTM Digital KL.
-
-UTMDigital, with its vision as "Pemacu Universiti Digital" and its mission to "mengukuhkan penyampaian perkhidmatan berpaksikan akademia melalui ekosistem digital berpacukan data," focuses on developing and upgrading applications, maintaining reliable ICT infrastructure, and promoting Digital Lifestyles through innovative technology.
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/ac6a3d48-6011-4375-b42f-7a92ee08815f" width="400" height="200"/>
+</p>
 
 At 2:10 PM, we listened to a short briefing by Dr. Haswadi bin Hasan, and by 2:25 PM, we arrived at UTM Digital. Next, we then attended a 1.5-hour talk at the Dewan Seminar, moderated by **Mohd Farid bin Sarji**, 
 
