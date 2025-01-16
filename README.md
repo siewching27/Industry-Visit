@@ -1,4 +1,4 @@
-# Industry-Visit
+# 🌐Industry-Visit to UTM Digital (UTMD)
 
 <p align="center">
   <img src = "https://github.com/user-attachments/assets/ac6a3d48-6011-4375-b42f-7a92ee08815f" width="400" height="200"/>
@@ -28,10 +28,11 @@ At **4:30 PM**, we visited the **Digital Unit on the ground floor**, where the p
 <img src = "https://github.com/user-attachments/assets/a13cfdca-4551-40c9-8ad4-fb590f8f62e2" width="280" height="150"/>
 </p>
 
-**Here is the video along with the industrial visit**: 
-https://github.com/user-attachments/assets/865111a0-07cd-450c-bd3a-a28dc9e3719b
+## 📽️ **Video of the Visit** 
+[Watch the video of the industrial visit](https://github.com/user-attachments/assets/865111a0-07cd-450c-bd3a-a28dc9e3719b).”
 
-**REFLECTION**
+
+<h3>💡REFLECTION</h3>
 
 The visit to UTM Digital was highly informative and provided valuable insights. I gained a better understanding of UTM Digital’s background, led by Nik Kamal Izuddin Nik Ibrahim, the Director of UTM Digital. The visit to UTM Digital was highly informative and provided valuable insights into its operations and services. I gained a better understanding of UTM Digital’s background, led by **Nik Kamal Izuddin Nik Ibrahim**, the Director of UTM Digital. I learned about services like **UTMID** for accessing WiFi and portals, as well as the importance of using UTM emails. I also discovered that UTM’s **WiFi and wired networks** were upgraded at the end of 2023 to enhance connectivity and efficiency. 
 
