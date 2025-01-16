@@ -6,12 +6,25 @@
 
 On 10th December 2024 (Tuesday), we had an industry visit to UTM Digital (UTMD), gathering at N24 at 2 PM with around 150 participants, led by Dr. Haswadi bin Hasan.
 
-At 2:10 PM, we listened to a short briefing by Dr. Haswadi bin Hasan, and by 2:25 PM, we arrived at UTM Digital. Next, we then attended a 1.5-hour talk at the Dewan Seminar, moderated by **Mr. Mohd Farid bin Sarji**. The session featured four speakers who discussed UTM Digital services, WiFi, wired networks, and data engineering.
+## 
+
+<h3>🕒 Itinerary Highlights</h3>
+1️⃣ 2:10 PM:<br>
+• Briefing session by **Dr. Haswadi bin Hasan**.<br><br>
+
+2️⃣ 2:25 PM:<br>
+• Arrived at UTM Digital. <br>
+• Attended a 1.5-hour talk at the Dewan Seminar, moderated by **Mr. Mohd Farid bin Sarji**. <br>
+• The session featured four speakers who discussed UTM Digital services, WiFi, wired networks, and data engineering.<br>
 <p align="center">
   <img src = "https://github.com/user-attachments/assets/3bbcccfa-d9c9-46fa-912c-3fba55d92581" width="420" height="250"/>
 </p>
 
-The talk concluded at **4:00 PM**, and by **4:10 PM**, we proceeded to visit the **open office on Level 2**. Inside, we explored various departments, including **Research** and **Academic**. The open office was well-equipped with facilities such as an **entertainment room** for relaxation and a **meeting room** for discussions and collaborations, providing a productive and comfortable working environment.  
+3️⃣ 4:00 PM: <br>
+• Talk end.<br>
+• Visit the **open office on Level 2**. <br>
+• Departments: *Research* and *Academic*.<br>
+• Facilities: *Entertainment room* for relaxation, *Meeting room* for discussions. 
 
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/a269c347-ee52-4634-83bd-32dcb4396c32" width="420" height="250"/>
@@ -20,7 +33,10 @@ The talk concluded at **4:00 PM**, and by **4:10 PM**, we proceeded to visit the
 <img src = "https://github.com/user-attachments/assets/2dbe50b3-489d-4827-bc76-1226067ccc5e" width="420" height="250"/>
 </p>
 
-At **4:30 PM**, we visited the **Digital Unit on the ground floor**, where the person in charge gave an overview of **UTM Digital Care**. This unit supports essential digital services and includes facilities such as a **multipurpose room** for flexible activities, a **technician room** for technical support and maintenance, and a **Sangfor room** for managing network security systems.
+4️⃣ 4:30 PM:<br>
+• Visited **Digital Unit on the ground floor**<br>
+• Listen to the overview of UTM Digital Care. <br>
+• Facilities: *multipurpose room* for flexible activities, *technician room* for technical support and maintenance, *Sangfor room* for managing network security systems.
 
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/04d5022f-ca26-4c76-b97c-5f0211db1c05" width="280" height="150"/>
@@ -32,6 +48,7 @@ At **4:30 PM**, we visited the **Digital Unit on the ground floor**, where the p
 [Watch the video of the industrial visit](https://github.com/user-attachments/assets/865111a0-07cd-450c-bd3a-a28dc9e3719b).”
 
 
+## 
 <h3>💡REFLECTION</h3>
 
 The visit to UTM Digital was highly informative and provided valuable insights. I gained a better understanding of UTM Digital’s background, led by Nik Kamal Izuddin Nik Ibrahim, the Director of UTM Digital. The visit to UTM Digital was highly informative and provided valuable insights into its operations and services. I gained a better understanding of UTM Digital’s background, led by **Nik Kamal Izuddin Nik Ibrahim**, the Director of UTM Digital. I learned about services like **UTMID** for accessing WiFi and portals, as well as the importance of using UTM emails. I also discovered that UTM’s **WiFi and wired networks** were upgraded at the end of 2023 to enhance connectivity and efficiency. 
