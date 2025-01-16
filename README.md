@@ -49,7 +49,7 @@ On 10th December 2024 (Tuesday), we had an industry visit to UTM Digital (UTMD),
 
 
 ## 
-<h3>💡REFLECTION</h3>
+<h3>💡Reflection</h3>
 
 The visit to UTM Digital was highly informative and provided valuable insights. I gained a better understanding of UTM Digital’s background, led by Nik Kamal Izuddin Nik Ibrahim, the Director of UTM Digital. The visit to UTM Digital was highly informative and provided valuable insights into its operations and services. I gained a better understanding of UTM Digital’s background, led by **Nik Kamal Izuddin Nik Ibrahim**, the Director of UTM Digital. I learned about services like **UTMID** for accessing WiFi and portals, as well as the importance of using UTM emails. I also discovered that UTM’s **WiFi and wired networks** were upgraded at the end of 2023 to enhance connectivity and efficiency. 
 
