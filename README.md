@@ -9,7 +9,8 @@ On 10th December 2024 (Tuesday), we had an industry visit to UTM Digital (UTMD),
 ## 
 
 <h3>🕒 Itinerary Highlights</h3>
-1️⃣ 2:10 PM:<br>
+1️⃣ 2:10 PM:<br> 
+
 • Briefing session by **Dr. Haswadi bin Hasan**.<br><br>
 
 2️⃣ 2:25 PM:<br>
